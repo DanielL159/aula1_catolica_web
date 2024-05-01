@@ -1,0 +1,2 @@
+npm install -g create-react-app
+npx creata-react-app aula1-app;
